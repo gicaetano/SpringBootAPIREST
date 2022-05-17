@@ -1,4 +1,4 @@
-package br.com.iamdev.forum.controller.repository;
+package br.com.iamdev.forum.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
